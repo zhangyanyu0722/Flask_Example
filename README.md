@@ -9,6 +9,6 @@ This example is running Flask API on AWS EC2 server
 - Port: 443(HTTP); 22(SSH)
 
 - URL: http://ec2-34-203-239-229.compute-1.amazonaws.com:443/ 
-```diff
-! NOTE: current unavailable, EC2 server stopped.
+```diff 
+! NOTE: current unavailable, EC2 server stopped. 
 ```
